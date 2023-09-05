@@ -12,6 +12,8 @@
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+  <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
   
 
 </div>
